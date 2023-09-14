@@ -1,0 +1,6 @@
+Learned Ubuntu commands and tutorials.
+resources:
+https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+https://www.youtube.com/watch?v=IVquJh3DXUA
+https://www.youtube.com/watch?v=9ReSHQihuZw
+
